@@ -1,15 +1,13 @@
 import './App.css';
-import Header from "./Components/Header/Header";
-import Main from "./Components/Main/Main";
-import Footer from "./Components/Footer/Footer";
+import BgOne from "./Components/Bg-one/BgOne";
+import BgTwo from "./Components/Bg-Two/Bg-two";
 
 function App() {
   return (
     <>
-      <div className="mx-auto container">
-        <Header />
-        <Main />
-        <Footer />
+      <div className="relative">
+        <BgOne />
+        <BgTwo />
       </div>
     </>
   )
