@@ -5,7 +5,42 @@
   box-sizing: border-box;
 }
 #hd{
-  height: 100vh;
+  height: 1377px;
   background-image: linear-gradient(orange, orangered);
   width: 100%;
 }
+#bg{
+  background-color: #EDEDED;
+  width: 100%
+}
+@media screen and (min-width: 150px){
+
+}
+@media screen and (min-width: 300px){
+
+}
+@media screen and (min-width: 468px){
+
+}
+@media screen and (min-width: 768px){
+
+}
+@media screen and (min-width: 992px){
+  #img_i{
+    margin-left: 280px;
+  }
+  #img_ii{
+    margin-left: 450px;
+    z-index: 100;
+  }
+  #img_iii{
+    margin-left: 650px;
+    position: absolute;
+  }
+  #ap{
+    top: 1315px;
+    margin-left: 25%;
+  }
+}
+@media screen and (min-width: 1024px){}
+@media screen and (min-width: 1240px){}

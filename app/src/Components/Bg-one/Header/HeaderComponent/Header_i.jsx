@@ -15,10 +15,10 @@ function Header_i(){
                                     <a className="py-3 hover:bg-orangered cursor-pointer hover:bg-orangered transition-all text-grey-300 truncate text-left">Fees</a>
                                 </nav>
                             </div>
-                            <a className="text-white border-r-2 pr-4">Business</a>
-                            <a className="text-white border-r-2 pr-4">Merchants</a>
+                            <a className="text-white border-r-2 pr-4 font-bold">Business</a>
+                            <a className="text-white border-r-2 pr-4 font-bold">Merchants</a>
                             <div className="relative">
-                                <a className="text-white border-r-2 pr-4">Company</a>
+                                <a className="text-white border-r-2 pr-4 font-bold">Company</a>
                                 <nav className="flex items-center flex-col hidden absolute bg-white rounded-md">
                                     <a className="py-3 hover:bg-orangered cursor-pointer hover:bg-orangered transition-all w-36 text-grey-300 truncate px-4 hover:bg-orange-300 rounded-tl-md rounded-tr-md">Affiliates</a>
                                     <a className="py-3 hover:bg-orangered cursor-pointer hover:bg-orangered transition-all w-36 text-grey-300 truncate px-4 hover:bg-orange-300">About us</a>

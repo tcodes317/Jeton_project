@@ -4,8 +4,10 @@ import Footer from "./Footer/Footer";
 function BgTwo(){
     return(
         <>
-            <Main />
-            <Footer />
+            <div id="bg">
+                <Main />
+                <Footer />
+            </div>
         </>
     )
 }

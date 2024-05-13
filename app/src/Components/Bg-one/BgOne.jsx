@@ -1,4 +1,5 @@
 import Header from "./Header/Header";
+
 function BgOne(){
     return(
         <>

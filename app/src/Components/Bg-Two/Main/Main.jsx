@@ -1,7 +1,11 @@
+import Main_i from "./MainComponents/Main_i";
+import Main_ii from "./MainComponents/Main_ii";
+
 function Main(){
     return(
         <>
-            <h1 className="text-3xl">Main</h1>
+            <Main_i />
+            <Main_ii />
         </>
     )
 }
