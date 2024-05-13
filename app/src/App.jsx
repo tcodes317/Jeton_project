@@ -1,12 +1,12 @@
 import './App.css';
-import BgOne from "./Components/Bg-one/BgOne";
+// import BgOne from "./Components/Bg-one/BgOne";
 import BgTwo from "./Components/Bg-Two/Bg-two";
 
 function App() {
   return (
     <>
       <div className="relative">
-        <BgOne />
+        {/* <BgOne /> */}
         <BgTwo />
       </div>
     </>

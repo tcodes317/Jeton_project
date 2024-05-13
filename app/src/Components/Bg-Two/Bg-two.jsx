@@ -1,12 +1,12 @@
 import Main from "./Main/Main";
-import Footer from "./Footer/Footer";
+// import Footer from "./Footer/Footer";
 
 function BgTwo(){
     return(
         <>
             <div id="bg">
                 <Main />
-                <Footer />
+                {/* <Footer /> */}
             </div>
         </>
     )
