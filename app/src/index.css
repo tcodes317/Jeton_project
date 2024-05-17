@@ -4,6 +4,10 @@
   scroll-behavior: smooth;
   box-sizing: border-box;
 }
+#container{
+  width: 1250px;
+  margin: 0 auto;
+}
 #hdd{
   background-image: linear-gradient(50deg, orange, orangered);
 }

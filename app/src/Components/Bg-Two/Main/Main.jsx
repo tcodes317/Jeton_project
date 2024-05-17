@@ -5,6 +5,8 @@ import Main_iv from "./MainComponents/Main_iv";
 import Main_v from "./MainComponents/Main_v";
 import Main_vi from "./MainComponents/Main_vi";
 import Main_vii from "./MainComponents/Main_vii";
+import Main_viii from "./MainComponents/Main_viii";
+import Main_viv from "./MainComponents/Main_viv";
 
 function Main(){
     return(
@@ -16,6 +18,8 @@ function Main(){
             <Main_v />
             <Main_vi />
             <Main_vii />
+            <Main_viii />
+            <Main_viv />
         </>
     )
 }

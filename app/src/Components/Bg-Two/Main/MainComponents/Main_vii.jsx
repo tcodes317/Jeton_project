@@ -22,7 +22,7 @@ function Main_vii(){
                     <div className="absolute top-20 right-14">
                         <img src={Img_ii} srcset={Img_ii} className="w-9/12 ml-8" />
                         <img src={Img_iii} srcset={Img_iii} className="-ml-17 w-6/12 -mt-20" />
-                        <img src={Img_v} srcset={Img_v} className="" />
+                        <img src={Img_v} srcset={Img_v} className="w-7/12 absolute right-0 top-48" />
                         <img src={Img_iv} srcset={Img_iv} className="w-8/12 -mt-4 -ml-12" />
                     </div>
                </div>
