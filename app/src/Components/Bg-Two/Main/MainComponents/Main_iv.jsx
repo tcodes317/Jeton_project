@@ -30,6 +30,22 @@ function Main_iv(){
                         </div>
                     </div>
                 </div>
+                <div className="py-8 w-8/12 mt-8 rounded-2xl mx-auto" id="iimg">
+                    <div className="flex justify-between items-center">
+                        <div className="w-full"></div>
+                        <div className="flex flex-col">
+                            <div>
+                                <h1 className="font-bold text-white text-4xl">Simple, fast and safe</h1>
+                                <p className="w-11/12 py-8 text-white text-xl">Pay with a few clicks. You can easily use Jeton Wallet as an option to deposit and withdraw on different partners' websites.</p>
+                            </div>
+                            <div className="mt-36 mb-2">
+                                <button className="border-2 border-white p-3 px-12 rounded-xl">
+                                    <span className="text-white">Try Jeton Wallet</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </>
     )

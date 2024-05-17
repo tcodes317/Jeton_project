@@ -4,6 +4,9 @@
   scroll-behavior: smooth;
   box-sizing: border-box;
 }
+#hdd{
+  background-image: linear-gradient(50deg, orange, orangered);
+}
 #hd{
   height: 1377px;
   background-image: linear-gradient(orange, orangered);
@@ -12,6 +15,17 @@
 #bg{
   background-color: #EDEDED;
   width: 100%
+}
+#iimg{
+  background-image: url("./assets/manage.png");
+  background-size: cover;
+}
+#iio{
+  background-color: #00292F;
+}
+#qwe{
+  background-image: url("./assets/jetoncash\ \(1\).png");
+  background-size: cover;
 }
 @media screen and (min-width: 150px){
 
