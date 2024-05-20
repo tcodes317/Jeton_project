@@ -31,8 +31,18 @@
   background-image: url("./assets/jetoncash\ \(1\).png");
   background-size: cover;
 }
-@media screen and (min-width: 150px){
 
+
+@media screen and (min-width: 150px){ 
+  #hd{
+    height: 670px;
+    background-image: linear-gradient(orange, orangered);
+    width: 100%;
+  }
+#circle{
+  position: absolute;
+  top: 175px;
+}
 }
 @media screen and (min-width: 300px){
 
@@ -41,7 +51,15 @@
 
 }
 @media screen and (min-width: 768px){
-
+  #hd{
+    height: 1377px;
+    background-image: linear-gradient(orange, orangered);
+    width: 100%;
+  }
+  #circle{
+    position: absolute;
+    top: 0 !important;
+  }
 }
 @media screen and (min-width: 992px){
   #img_i{

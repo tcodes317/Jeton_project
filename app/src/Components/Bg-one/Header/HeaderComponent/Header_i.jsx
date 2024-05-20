@@ -1,12 +1,11 @@
 function Header_i(){
     return(
         <>
-            
-            <div className="mx-auto container pt-4 px-8 border-b-2 border-b-grey pb-4">
+            <div className="mx-auto md:container md:pt-4 xxxs:px-4 md:px-8 border-b-2 border-b-grey pb-4">
                 <header className="flex items-center justify-between">
                     <div className="flex items-center">
                         <h1 className="text-4xl font-intel font-bold text-white">Jeton</h1>
-                        <nav className="space-x-4 flex items-center relative top-1 left-40">
+                        <nav className="space-x-4 lg:flex items-center relative top-1 left-40 xxxs:hidden">
                             <div className="relative">
                                 <a className="text-white border-r-2 font-bold pr-4">Personal</a>
                                 <nav className="flex items-center flex-col rounded-md w absolute bg-white text-black hidden">
@@ -28,7 +27,11 @@ function Header_i(){
                         </nav>
                     </div>
                     <div className="relative text-white">
-                        <nav className="space-x-6 flex items-center">
+                        <div className="md:hidden mt-3 xxxs:space-x-3 flex">
+                            <i className="fa fa-search p-3 text-xl rounded-full px-4 h-6/12 block hover:bg-black text-white"></i>
+                            <i className="fa fa-bars p-3 text-xl rounded-full px-4 h-6/12 block hover:bg-black text-white"></i>
+                        </div>
+                        <nav className="space-x-6 lg:flex items-center xxxs:hidden">
                             <a>Help</a>
                             <a>Login</a>
                             <button className="border-2 rounded-md space-x-2 px-4 py-2 hover:bg-orange-500 transition-all flex items-center">
@@ -63,4 +66,5 @@ function Header_i(){
         </>
     )
 }
+
 export default Header_i;
