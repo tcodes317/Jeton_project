@@ -59,8 +59,8 @@ function Main_iii(){
                 </div>
             </div>
             <div className="relative mt-8">
-                <div className="flex items-center justify-center space-x-7">
-                    <div className="bg-white p-8 rounded-xl flex w-4/12 items-center">
+                <div className="flex xxxs:flex-col md:flex-row items-center justify-center md:space-x-7 xxxs:space-y-4 md:space-y-0 xxxs:mx-4">
+                    <div className="bg-white p-8 rounded-xl flex md:w-4/12 items-center">
                         <div className="">
                             <h1 className="font-bold text-3xl text-left">Easy to Pay</h1>
                             <p className="pt-5 text-xl w-7/12">The easiest way to pay - Jeton card contactless pay</p>
@@ -69,7 +69,7 @@ function Main_iii(){
                             <img src={Card_iii} srcset={Card_iii} />
                         </div>
                     </div>
-                    <div className="bg-gray-500 p-8 py-12 rounded-xl w-4/12 flex items-center">
+                    <div className="bg-gray-500 p-8 py-12 rounded-xl md:w-4/12 flex items-center">
                         <div className="">
                             <h1 className="text-white font-bold text-3xl">Stay Secure</h1>
                             <p className="text-white pt-4 w-7/12">From card freezing, to spending limits, turn them on or off with a single move.</p>
