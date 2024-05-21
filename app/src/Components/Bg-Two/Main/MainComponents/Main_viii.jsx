@@ -12,12 +12,12 @@ function Main_viii(){
                     <h6 className="text-center text-xl text-gray-400">Download the Jeton app on IOS or Andriod and join the happy people who've changed the way they bank.</h6>
                 </div>
                 <div className="pt-10 pb-10">
-                    <div className="flex items-center space-x-4 justify-center">
+                    <div className="flex xxxs:flex-col md:flex-row items-center md:space-x-4 xxxs:space-y-4 md:space-y-0 justify-center">
                         <img src={Img__i} srcset={Img__i} className="cursor-pointer" />
                         <img src={Img__ii} srcset={Img__ii} className="cursor-pointer" />
                     </div>
                 </div>
-                <div>
+                <div className="md:mx-80">
                     <img src={Img__iii} srcset={Img__iii} />
                 </div>
             </div>
