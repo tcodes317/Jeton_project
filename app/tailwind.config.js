@@ -6,6 +6,7 @@ export default {
       screens:{
         xxxs: "150px",
         xxs: "300px",
+        xr: "400px",
         xs: "468px",
         md: "768px",
         lg: "992px",

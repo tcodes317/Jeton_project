@@ -13,7 +13,7 @@ function Main_viv(){
     return(
         <>
             <div className="relative pt-12" id="container">
-                <div className="">
+                <div className="xxxs:ml-4 md:ml-0">
                     <button className="border-2 p-4 py-2 rounded-md border-black">
                         <span className="font-bold">EN</span>
                         <i className="fa fa-angle-down ml-2"></i>

@@ -49,7 +49,7 @@ function Main_iii(){
                                     </div>
                                 </div>
                                 <div className="pl-4">
-                                    <button className="bg-white p-4 rounded-lg py-2 text-blue-600">
+                                    <button className="bg-white p-4 rounded-lg py-2 text-blue-600" id="but">
                                         <span className="font-bold">Learn more <i className="fa fa-arrow-right text-sm ml-2"></i></span>
                                     </button>
                                 </div>

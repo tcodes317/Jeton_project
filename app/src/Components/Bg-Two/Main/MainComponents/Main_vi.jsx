@@ -12,7 +12,7 @@ function Main_vi(){
                         <h1 className="font-bold text-white text-4xl">Cash for the digital world.</h1>
                         <p className="text-white pt-10 w-10/12 text-xl mb-40">Pay your way. Pay anytime. Pay with peace of mind. JetonCash allows you to pay online globally without a bank account credit card or disclosing your personal information.</p>
                     </div>
-                    <div className="md:w-4/12 rounded-xl p-9 flex bg-white justify-between flex-col" id="qwe">
+                    <div className="md:w-4/12 w-full rounded-xl p-9 flex bg-white justify-between flex-col" id="qwe">
                         <div className="">
                             <h1 className="text-2xl font-bold my-4">Your money.</h1>
                             <h1 className="text-2xl font-bold my-4">Your choice.</h1>
