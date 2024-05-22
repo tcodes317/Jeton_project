@@ -11,15 +11,15 @@ import Main_viv from "./MainComponents/Main_viv";
 function Main(){
     return(
         <>
-            <Main_i />
-            <Main_ii />
-            <Main_iii />
-            <Main_iv />
-            <Main_v />
-            <Main_vi />
-            <Main_vii />
-            <Main_viii />
-            <Main_viv />
+            {/* <Main_i /> */}
+            {/* <Main_ii /> */}
+            {/* <Main_iii /> */}
+            {/* <Main_iv /> */}
+            {/* <Main_v /> */}
+            {/* <Main_vi /> */}
+            {/* <Main_vii /> */}
+            {/* <Main_viii /> */}
+            {/* <Main_viv /> */}
         </>
     )
 }

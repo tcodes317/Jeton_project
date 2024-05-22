@@ -7,7 +7,7 @@ function Header_iii(){
     return(
         <>
             <div className="relative">
-                <img src={Circle} className="absolute md:ml-20" id="circle" />
+                <img src={Circle} className="absolute" id="circle" />
                 <div className="flex items-center" id="pho">
                     <img src={Phone_i} className="absolute xxxs:w-12 xxxs:top-48 xxxs:ml-28 md:w-40 md:left-96 md:top-80" id="img_i" />
                     <img src={Phone_ii} className="absolute xxxs:w-2/12 xxxs:top-36 xxxs:ml-40 xxxs:z-10 md:w-60 md:left-96 md:top-40" id="img_ii" />

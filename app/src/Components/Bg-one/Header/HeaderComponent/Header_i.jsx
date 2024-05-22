@@ -5,7 +5,7 @@ function Header_i(){
                 <header className="flex items-center justify-between">
                     <div className="flex items-center">
                         <h1 className="text-4xl font-intel font-bold text-white">Jeton</h1>
-                        <nav className="space-x-4 lg:flex items-center relative top-1 left-40 xxxs:hidden">
+                        <nav className="space-x-4 lg:flex items-center relative top-1 left-40 xxxs:hidden" id="navv">
                             <div className="relative">
                                 <a className="text-white border-r-2 font-bold pr-4">Personal</a>
                                 <nav className="flex items-center flex-col rounded-md w absolute bg-white text-black hidden">
@@ -27,7 +27,7 @@ function Header_i(){
                         </nav>
                     </div>
                     <div className="relative text-white">
-                        <div className="md:hidden mt-3 xxxs:space-x-3 flex">
+                        <div className="lg:hidden mt-3 xxxs:space-x-3 flex">
                             <i className="fa fa-search p-3 text-xl rounded-full px-4 h-6/12 block hover:bg-black text-white"></i>
                             <i className="fa fa-bars p-3 text-xl rounded-full px-4 h-6/12 block hover:bg-black text-white"></i>
                         </div>
