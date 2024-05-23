@@ -9,6 +9,7 @@ export default {
         xr: "400px",
         xs: "468px",
         md: "768px",
+        mmd: "820px",
         lg: "992px",
         xlg: "1024px",
         xxlg: "1240px"
@@ -17,4 +18,3 @@ export default {
   },
   plugins: [],
 }
-
