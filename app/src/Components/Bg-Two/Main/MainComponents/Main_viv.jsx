@@ -20,7 +20,7 @@ function Main_viv(){
                     </button>
                 </div>
                 <div className="py-8">
-                    <div className="xxxs:space-y-8 md:space-y-14 flex md:flex-col xxxs:flex-col justify-between md:w-7/12">
+                    <div className="xxxs:space-y-8 md:space-y-14 flex xlg:w-10/12 md:flex-col xxxs:flex-col justify-between md:w-7/12">
                         <nav className="md:space-x-6 md:block md:w-full md:text-xl xxxs:flex xxxs:flex-col">
                             <a className="xxxs:p-2 md:p-0 xxxs:px-6">Developers</a>
                             <a className="xxxs:p-2 md:p-0 xxxs:px-6">JetonCash</a>
@@ -58,7 +58,7 @@ function Main_viv(){
                         <h4 className="font-bold w-12/12 text-gray-400">Certified International <br /> Cyber Security Standards</h4>
                     </div>
                 </div>
-                <div className="md:w-7/12">
+                <div className="md:w-7/12 xlg:w-9/12">
                     <p className="font-bold text-gray-500 py-4 md:w-full">Jeton Bank Limited is licensed and authorised by the Financial Services Unit, Ministry of Finance of the Commonwealth of Dominica licensed as a banking institution under the Offshore Banking Act, fully authorised to provide servies to clients worldwide except for Commonwealth of Dominica citizens and residents, under the prudential supervision of the Financial Services Unit. Jeton Bank Limited is registered in the Commonwealth of Dominica company Number 2022/CO175 with its registered address at 1st Floor, 43 Greate George Street, Roseau, Commonwealth of Dominica.</p>
                     <p className="font-bold text-gray-500 py-4 md:w-full">The Jeton Card Account and Card are issued by UAB, Finansines paslaugos, Contis who are authorised by the Bank of Lithuania under the electronic money institution license No. 53. The Jeton Card Account and Card are electronic money products which are not covered by the Deposit insurance System of the Republic of Lithuania, the funds will be safeguarded by UAB, Finansines paslaugos, Contis"</p>
                 </div>
