@@ -8,11 +8,11 @@ function Main_ii(){
         <>
             <div className="relative">
                 <div className="mt-32 mb-20">
-                    <h4 className="text-center font-bold md:text-2xl xxxs:text-3xl text-gray-600 mb-4 xlg:text-4xl">It's simple</h4>
-                    <h1 className="text-center font-bold text-4xl mb-6 xxxs:text-2xl xlg:text-4xl">Have more fun with your money</h1>
-                    <h4 className="text-center font-bold text-xl text-gray-400 xxxs:text-sm xlg:text-xl">Way better wallet for a more entertaining world.</h4>
+                    <h4 className="text-center font-bold md:text-2xl xxxs:text-3xl text-gray-600 mb-4 xlg:text-4xl xxlg:text-5xl">It's simple</h4>
+                    <h1 className="text-center font-bold text-4xl mb-6 xxxs:text-2xl xlg:text-4xl xxlg:text-5xl">Have more fun with your money</h1>
+                    <h4 className="text-center font-bold text-xl text-gray-400 xxxs:text-sm xlg:text-xl xxlg:text-2xl">Way better wallet for a more entertaining world.</h4>
                 </div>
-                <div className="flex md:flex-row md:space-y-0 xxxs:space-y-4 xxxs:flex-col items-center md:space-x-6 justify-center" id="card-flex-container">
+                <div className="flex xxlg:scale-100 md:flex-row md:space-y-0 xxxs:space-y-4 xxxs:flex-col items-center md:space-x-6 justify-center" id="card-flex-container">
                     <div className="md:space-y-6 border-2 xxxs:space-y-4">
                         <div className="block xxxs:w-60 md:w-60 shadow-md bg-white rounded-lg" id="card">
                             <h1 className="text-center font-bold text-2xl w-7/12 mx-auto py-4">Move your money.</h1>
