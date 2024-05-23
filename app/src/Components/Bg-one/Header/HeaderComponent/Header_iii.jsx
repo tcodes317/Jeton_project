@@ -6,7 +6,7 @@ import Phone_iii from "./../../../../assets/phone-3.png";
 function Header_iii(){
     return(
         <>
-            <div className="relative">
+            <div className="relative" id="img_sec">
                 <img src={Circle} className="absolute" id="circle" />
                 <div className="flex items-center" id="pho">
                     <img src={Phone_i} className="absolute xxxs:w-12 xxxs:top-48 xxxs:ml-28 md:w-40 md:left-96 md:top-80" id="img_i" />

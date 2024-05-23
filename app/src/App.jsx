@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div className="relative">
-        <BgOne />
+        {/* <BgOne /> */}
         <BgTwo />
       </div>
     </>

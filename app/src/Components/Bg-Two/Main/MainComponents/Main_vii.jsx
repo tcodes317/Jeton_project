@@ -7,12 +7,12 @@ import Img_v from "./../../../../assets/coin-silver.png";
 function Main_vii(){
     return(
         <>
-            <div className="relative mt-24 md:w-8/12 mx-auto">
+            <div className="relative mt-24 md:w-11/12 mx-auto">
                 <div>
-                    <h1 className="text-2xl font-bold text-center text-gray-400">Get 1% Cashback
+                    <h1 className="text-2xl font-bold text-center text-gray-400 md:text-4xl">Get 1% Cashback
                         {/* <img src={} srcset={} /> */}
                     </h1>
-                    <h1 className="text-center mt-4 font-bold text-3xl">Advantages of Jeton Wallet Awaits you</h1>
+                    <h1 className="text-center mt-4 font-bold text-3xl md:text-4xl">Advantages of Jeton Wallet Awaits you</h1>
                 </div>
                 <div className="relative rounded-xl p-10 mt-6 pt-20" id="iio">
                     <h1 className="text-white font-bold text-4xl md:w-6/12 mb-8">Every Payment Pays You Back with Jeton!</h1>

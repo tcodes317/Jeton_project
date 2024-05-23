@@ -90,9 +90,16 @@
   #circle{
     top: 162px;
   }
+  #pho{
+    position: relative;
+    left: 15px;
+  }
+  #ap{
+    left: 18%;
+  }
   #img_i{
     top: 320px;
-    left: 90px !important;
+    left: 100px !important;
   }
   #img_ii{
     left: 100px;
@@ -189,6 +196,12 @@
   }
   #pho{
     margin-left: 12px;
+  }
+  #hd{
+    height: 850px;
+  }
+  #img_sec{
+    top: 180px;
   }
 }
 @media (min-width: 425px){ 

@@ -4,7 +4,7 @@ function BgOne(){
     return(
         <>
             <div id="hd">
-                <Header />
+                {/* <Header /> */}
             </div>
         </>
     )

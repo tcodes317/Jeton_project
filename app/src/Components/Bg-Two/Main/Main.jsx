@@ -19,7 +19,7 @@ function Main(){
             {/* <Main_vi /> */}
             {/* <Main_vii /> */}
             {/* <Main_viii /> */}
-            {/* <Main_viv /> */}
+            <Main_viv />
         </>
     )
 }

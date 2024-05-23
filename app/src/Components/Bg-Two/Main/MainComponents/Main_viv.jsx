@@ -14,14 +14,14 @@ function Main_viv(){
         <>
             <div className="relative pt-12" id="container">
                 <div className="xxxs:ml-4 md:ml-0">
-                    <button className="border-2 p-4 py-2 rounded-md border-black">
+                    <button className="border-2 p-4 py-2 rounded-md border-black hover:bg-black hover:text-white">
                         <span className="font-bold">EN</span>
                         <i className="fa fa-angle-down ml-2"></i>
                     </button>
                 </div>
-                <div className="py-6">
-                    <div className="xxxs:space-y-8 md:space-y-0 flex md:flex-row xxxs:flex-col md:items-center justify-between">
-                        <nav className="md:space-x-4 md:w-8/12 xxxs:flex xxxs:flex-col md:block">
+                <div className="py-8">
+                    <div className="xxxs:space-y-8 md:space-y-14 flex md:flex-col xxxs:flex-col justify-between md:w-7/12">
+                        <nav className="md:space-x-6 md:block md:w-full md:text-xl xxxs:flex xxxs:flex-col">
                             <a className="xxxs:p-2 md:p-0 xxxs:px-6">Developers</a>
                             <a className="xxxs:p-2 md:p-0 xxxs:px-6">JetonCash</a>
                             <a className="xxxs:p-2 md:p-0 xxxs:px-6">Jeton Card</a>
@@ -58,7 +58,7 @@ function Main_viv(){
                         <h4 className="font-bold w-12/12 text-gray-400">Certified International <br /> Cyber Security Standards</h4>
                     </div>
                 </div>
-                <div>
+                <div className="md:w-7/12">
                     <p className="font-bold text-gray-500 py-4 md:w-full">Jeton Bank Limited is licensed and authorised by the Financial Services Unit, Ministry of Finance of the Commonwealth of Dominica licensed as a banking institution under the Offshore Banking Act, fully authorised to provide servies to clients worldwide except for Commonwealth of Dominica citizens and residents, under the prudential supervision of the Financial Services Unit. Jeton Bank Limited is registered in the Commonwealth of Dominica company Number 2022/CO175 with its registered address at 1st Floor, 43 Greate George Street, Roseau, Commonwealth of Dominica.</p>
                     <p className="font-bold text-gray-500 py-4 md:w-full">The Jeton Card Account and Card are issued by UAB, Finansines paslaugos, Contis who are authorised by the Bank of Lithuania under the electronic money institution license No. 53. The Jeton Card Account and Card are electronic money products which are not covered by the Deposit insurance System of the Republic of Lithuania, the funds will be safeguarded by UAB, Finansines paslaugos, Contis"</p>
                 </div>
